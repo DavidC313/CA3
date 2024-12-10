@@ -1,0 +1,75 @@
+﻿@page "/counter"
+@using X00181967CA3.Models
+@inject HttpClient Http
+
+<h1>Search for Football Players</h1>
+<p>
+    <input type="text" @bind="searchQuery" class="form-control" placeholder="Enter player name" />
+    <button class="btn btn-primary mt-2" @onclick="Search">Search</button>
+</p>
+<p class="text-danger">@errorMessage</p>
+
+@if (isLoading)
+{
+    <p>Loading...</p>
+}
+else if (players.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Team</th>
+                <th>Popularity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var player in players)
+            {
+                <tr>
+                    <td>
+                        <img src="@player.ImageUrl" alt="@player.Name" style="width:50px; height:50px; border-radius:50%; margin-right:10px;" />
+                        @player.Name
+                    </td>
+                    <td>@player.Team</td>
+                    <td>@player.Popularity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No players found.</p>
+}
+
+@code {
+    private string searchQuery = "";
+    private string errorMessage = "";
+    private bool isLoading = false;
+    private List<Player> players = new();
+
+    private async Task Search()
+    {
+        errorMessage = "";
+        if (string.IsNullOrWhiteSpace(searchQuery))
+        {
+            errorMessage = "Please enter a search term.";
+            return;
+        }
+
+        isLoading = true;
+        try
+        {
+            players = await PlayerService.SearchPlayersAsync(Http, searchQuery);
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex.Message}";
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}
