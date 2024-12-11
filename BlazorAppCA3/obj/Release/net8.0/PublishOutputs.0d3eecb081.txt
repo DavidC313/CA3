@@ -1,0 +1,5 @@
+C:\Users\David\Documents\CA3\BlazorAppCA3\obj\Release\net8.0\browser-wasm\PubTmp\Out\publish\web.config
+C:\Users\David\Documents\CA3\BlazorAppCA3\obj\Release\net8.0\browser-wasm\PubTmp\Out\publish\BlazorAppCA3.staticwebassets.endpoints.json
+C:\Users\David\Documents\CA3\BlazorAppCA3\obj\Release\net8.0\browser-wasm\PubTmp\Out\publish\emcc-props.json
+C:\Users\David\Documents\CA3\BlazorAppCA3\obj\Release\net8.0\browser-wasm\PubTmp\Out\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\David\Documents\CA3\BlazorAppCA3\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
