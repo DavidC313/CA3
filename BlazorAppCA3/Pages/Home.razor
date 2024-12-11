@@ -48,7 +48,7 @@
             <p class="mt-2">Fetching player data...</p>
         </div>
     }
-    else if (filteredPlayers.Any())
+    else if (pagedPlayers.Any())
     {
         <div class="table-responsive mt-4">
             <table class="table table-striped table-hover align-middle">
@@ -60,7 +60,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var player in filteredPlayers)
+                    @foreach (var player in pagedPlayers)
                     {
                         <tr>
                             <td>
@@ -76,6 +76,24 @@
                 </tbody>
             </table>
         </div>
+
+        <!-- Pagination Controls -->
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center">
+                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                    <button class="page-link text-white bg-success" @onclick="PrevPage">Previous</button>
+                </li>
+                @for (int i = 1; i <= totalPages; i++)
+                {
+                    <li class="page-item @(i == currentPage ? "active" : "")">
+                        <button class="page-link text-white bg-success" @onclick="(() => GoToPage(i))">@i</button>
+                    </li>
+                }
+                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                    <button class="page-link text-white bg-success" @onclick="NextPage">Next</button>
+                </li>
+            </ul>
+        </nav>
     }
     else
     {
@@ -91,9 +109,14 @@
     private bool isLoading = false;
     private List<Player> players = new();
     private List<Player> filteredPlayers = new();
+    private List<Player> pagedPlayers = new();
     private List<string> teams = new();
     private string selectedTeam = "";
     private string selectedPopularity = "All";
+
+    private int currentPage = 1;
+    private int pageSize = 10;
+    private int totalPages = 0;
 
     private async Task Search()
     {
@@ -153,6 +176,50 @@
         else if (selectedPopularity == "Low")
         {
             filteredPlayers = filteredPlayers.Where(p => int.TryParse(p.Popularity, out var popularity) && popularity < 50).ToList();
+        }
+
+        CalculatePagination();
+    }
+
+    private void CalculatePagination()
+    {
+        totalPages = (int)Math.Ceiling(filteredPlayers.Count / (double)pageSize);
+        currentPage = Math.Clamp(currentPage, 1, totalPages);
+        UpdatePagedPlayers();
+    }
+
+    private void UpdatePagedPlayers()
+    {
+        pagedPlayers = filteredPlayers
+            .Skip((currentPage - 1) * pageSize)
+            .Take(pageSize)
+            .ToList();
+    }
+
+    private void PrevPage()
+    {
+        if (currentPage > 1)
+        {
+            currentPage--;
+            UpdatePagedPlayers();
+        }
+    }
+
+    private void NextPage()
+    {
+        if (currentPage < totalPages)
+        {
+            currentPage++;
+            UpdatePagedPlayers();
+        }
+    }
+
+    private void GoToPage(int page)
+    {
+        if (page > 0 && page <= totalPages)
+        {
+            currentPage = page;
+            UpdatePagedPlayers();
         }
     }
 }
