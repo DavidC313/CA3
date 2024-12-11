@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\david\\Downloads\\CA3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A278F49A-1519-48D4-8642-90B9438C7A7D}|BlazorAppCA3\\BlazorAppCA3.csproj|c:\\users\\david\\downloads\\ca3\\blazorappca3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A278F49A-1519-48D4-8642-90B9438C7A7D}|BlazorAppCA3\\BlazorAppCA3.csproj|solutionrelative:blazorappca3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A278F49A-1519-48D4-8642-90B9438C7A7D}|BlazorAppCA3\\BlazorAppCA3.csproj|c:\\users\\david\\downloads\\ca3\\blazorappca3\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A278F49A-1519-48D4-8642-90B9438C7A7D}|BlazorAppCA3\\BlazorAppCA3.csproj|solutionrelative:blazorappca3\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorAppCA3\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorAppCA3\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-11T15:36:12.077Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -42,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorAppCA3\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BlazorAppCA3\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T14:41:33.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "BlazorAppCA3\\wwwroot\\css\\app.css",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorAppCA3\\Pages\\Home.razor",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\Models\\Player.cs",
               "RelativeDocumentMoniker": "BlazorAppCA3\\Models\\Player.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerService.cs",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\Services\\PlayerService.cs",
               "RelativeDocumentMoniker": "BlazorAppCA3\\Services\\PlayerService.cs",

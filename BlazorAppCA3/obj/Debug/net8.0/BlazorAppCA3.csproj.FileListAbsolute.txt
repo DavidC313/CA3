@@ -2066,6 +2066,6 @@ C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\BlazorAppCA3.dll
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\refint\BlazorAppCA3.dll
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\BlazorAppCA3.pdb
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\ref\BlazorAppCA3.dll
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\3xmrkn6jhk-r6cgevo0yw.gz
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\v9gvo17kgk-hwkaxafqrp.gz
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\p2wwp61bvz-xq7y65ch66.gz
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\3xmrkn6jhk-t5e6h9jhzx.gz
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\v9gvo17kgk-xslfg2gpj6.gz
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Debug\net8.0\compressed\p2wwp61bvz-ktcf3lw926.gz
