@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BlazorAppCA3",
+    "\\BlazorAppCA3\\Layout",
     "\\BlazorAppCA3\\Pages"
   ],
-  "SelectedNode": "\\BlazorAppCA3\\Pages\\Home.razor",
+  "SelectedNode": "\\BlazorAppCA3\\Layout\\MainLayout.razor",
   "PreviewInSolutionExplorer": false
 }
