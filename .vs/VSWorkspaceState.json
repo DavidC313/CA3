@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazorAppCA3",
+    "\\BlazorAppCA3\\Pages"
   ],
-  "SelectedNode": "\\BlazorAppCA3.sln",
+  "SelectedNode": "\\BlazorAppCA3\\Pages\\Counter.razor",
   "PreviewInSolutionExplorer": false
 }
