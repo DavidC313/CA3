@@ -1019,9 +1019,6 @@ C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\ox1nc3gl
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\r7k9e57pe9-tptq2av103.gz
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\j82eqy60ip-lfu7j35m59.gz
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\75qbag9r1t-oyz0vx2fzb.gz
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\3xmrkn6jhk-4ylpahpins.gz
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\v9gvo17kgk-cj5tcorqsg.gz
-C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\p2wwp61bvz-dve108gx7c.gz
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1036,3 +1033,6 @@ C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\BlazorAppCA3.dll
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\refint\BlazorAppCA3.dll
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\BlazorAppCA3.pdb
 C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\ref\BlazorAppCA3.dll
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\3xmrkn6jhk-6aevd64yw1.gz
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\v9gvo17kgk-aso6ymj30t.gz
+C:\Users\david\Downloads\CA3\BlazorAppCA3\obj\Release\net8.0\compressed\p2wwp61bvz-jx5twivf7j.gz

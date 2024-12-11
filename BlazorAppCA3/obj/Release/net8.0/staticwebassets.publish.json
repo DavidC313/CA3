@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "25tl/4jd0MBnsb7hCPWOdaLdGZof9wEiKjZFtRezytg=",
+  "Hash": "e9RNHIAybs9Ad38fc3rBNdT4HolUg/AktlnPTzB1Ik4=",
   "Source": "BlazorAppCA3",
   "BasePath": "/",
   "Mode": "Root",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js",
       "AssetKind": "Publish",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.js",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.dat",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.dat",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ld7n7irujy",
-      "Integrity": "51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8=",
+      "Fingerprint": "luduh41nq2",
+      "Integrity": "Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -209,7 +209,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\erq45qt8wz-keyssdiug3.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Publish",
@@ -230,7 +230,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\hhm511fuvb-xjx70hiola.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js.gz",
       "AssetKind": "Publish",
@@ -272,7 +272,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\mihxahurcx-rqxhp8973g.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Publish",
@@ -1172,7 +1172,7 @@
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.br",
+      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.br",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1186,14 +1186,14 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "tf4u8fxdna",
-      "Integrity": "B5o0zn4XvSCYMOnnZwksfz5MS2wr/Fk4QUXN/SfHzKk=",
+      "Fingerprint": "zg7azoysus",
+      "Integrity": "rTirgqIIB3Gg7nadTq3uQhBn+M5CaY/oRVxe7w4W19k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.gz",
+      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q2g21dhy42",
-      "Integrity": "4kLWK94JIZAypGGoqeEU50hsmilQPFt8x0NCi3EPawo=",
+      "Fingerprint": "8e1loknbwj",
+      "Integrity": "sO1hNtMrjKjEDjT9vB14l7ZJ3iuazX1o23ifOOj8tdM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm"
@@ -1487,7 +1487,7 @@
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.br",
+      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.br",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1501,14 +1501,14 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "qdyv1ky6zf",
-      "Integrity": "ztDpLEu+YfgnquUS04rOWQFoH39eXhuOrhomnkr+zaU=",
+      "Fingerprint": "km46vmizz9",
+      "Integrity": "7NNxl2nWOTgspb1ZhDQPyny49TU9WfllVm6EedGvL3U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.gz",
+      "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nln4wfrhkx",
-      "Integrity": "hQO4mk068bf9u28qVJgLu44UF3HUV98nik65efyrilw=",
+      "Fingerprint": "l36xjbcord",
+      "Integrity": "IVwd5Hcn/PtV+aQ4jNYjwuZYG+1HWjN/1H/tC4cRMRY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -1868,7 +1868,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\uwj9t42aam-xteh9p4yli.gz",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js.gz",
       "AssetKind": "Publish",
@@ -1931,7 +1931,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/BlazorAppCA3.wasm",
       "AssetKind": "Publish",
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "4ylpahpins",
-      "Integrity": "XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8=",
+      "Fingerprint": "6aevd64yw1",
+      "Integrity": "Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\BlazorAppCA3.wasm"
@@ -1952,7 +1952,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.wasm",
       "AssetKind": "Publish",
@@ -1973,7 +1973,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
       "AssetKind": "Publish",
@@ -1994,7 +1994,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2015,7 +2015,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2036,7 +2036,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
       "AssetKind": "Publish",
@@ -2057,7 +2057,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.wasm",
       "AssetKind": "Publish",
@@ -2078,7 +2078,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2099,7 +2099,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
       "AssetKind": "Publish",
@@ -2120,7 +2120,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2141,7 +2141,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.wasm",
       "AssetKind": "Publish",
@@ -2162,7 +2162,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options.wasm",
       "AssetKind": "Publish",
@@ -2183,7 +2183,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2204,7 +2204,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.wasm",
       "AssetKind": "Publish",
@@ -2225,7 +2225,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2246,7 +2246,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent.wasm",
       "AssetKind": "Publish",
@@ -2267,7 +2267,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.wasm",
       "AssetKind": "Publish",
@@ -2288,7 +2288,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.wasm",
       "AssetKind": "Publish",
@@ -2309,7 +2309,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console.wasm",
       "AssetKind": "Publish",
@@ -2330,7 +2330,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Diagnostics.DiagnosticSource.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Diagnostics.DiagnosticSource.wasm",
       "AssetKind": "Publish",
@@ -2351,7 +2351,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.wasm",
       "AssetKind": "Publish",
@@ -2372,7 +2372,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory.wasm",
       "AssetKind": "Publish",
@@ -2393,7 +2393,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.wasm",
       "AssetKind": "Publish",
@@ -2414,7 +2414,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2435,7 +2435,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib.wasm",
       "AssetKind": "Publish",
@@ -2456,7 +2456,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri.wasm",
       "AssetKind": "Publish",
@@ -2477,7 +2477,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
       "AssetKind": "Publish",
@@ -2498,7 +2498,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.wasm",
       "AssetKind": "Publish",
@@ -2519,7 +2519,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web.wasm",
       "AssetKind": "Publish",
@@ -2540,7 +2540,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json.wasm",
       "AssetKind": "Publish",
@@ -2561,7 +2561,7 @@
       "Identity": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "BlazorAppCA3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions.wasm",
       "AssetKind": "Publish",
@@ -2698,8 +2698,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hrk1qd03dg",
-      "Integrity": "XY19FXA9RQgOsZ/XYr2HI7gW4OWXBc+OrpsQMQBz/bw=",
+      "Fingerprint": "7miooqxn5l",
+      "Integrity": "PwR/rtDpstYVJM+Sd+hLTFxs9HnvXANL/GN87Ake7O8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -2725,11 +2725,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8=\""
+          "Value": "\"Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:18 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2739,18 +2739,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8="
+          "Value": "sha256-Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.br",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000560538117"
+          "Quality": "0.000559910414"
         }
       ],
       "ResponseHeaders": [
@@ -2760,15 +2760,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "1785"
         },
         {
           "Name": "ETag",
-          "Value": "\"ztDpLEu+YfgnquUS04rOWQFoH39eXhuOrhomnkr+zaU=\""
+          "Value": "\"7NNxl2nWOTgspb1ZhDQPyny49TU9WfllVm6EedGvL3U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:18 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2788,24 +2788,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8=\""
+          "Value": "W/\"Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8="
+          "Value": "sha256-Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000517063082"
+          "Quality": "0.000516795866"
         }
       ],
       "ResponseHeaders": [
@@ -2815,15 +2815,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1933"
+          "Value": "1934"
         },
         {
           "Name": "ETag",
-          "Value": "\"hQO4mk068bf9u28qVJgLu44UF3HUV98nik65efyrilw=\""
+          "Value": "\"IVwd5Hcn/PtV+aQ4jNYjwuZYG+1HWjN/1H/tC4cRMRY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:18 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2843,19 +2843,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8=\""
+          "Value": "W/\"Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-51vvkeDcNCnh4jYNdMEHPiEfwzkEvORnNN7CpPR/5/8="
+          "Value": "sha256-Y01DIvy+1EeIi9CB2+fOLl0ozS4Fjgi0eYLCStxsU6A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.br",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2864,7 +2864,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "1785"
         },
         {
           "Name": "Content-Type",
@@ -2872,11 +2872,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ztDpLEu+YfgnquUS04rOWQFoH39eXhuOrhomnkr+zaU=\""
+          "Value": "\"7NNxl2nWOTgspb1ZhDQPyny49TU9WfllVm6EedGvL3U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:18 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2894,13 +2894,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ztDpLEu+YfgnquUS04rOWQFoH39eXhuOrhomnkr+zaU="
+          "Value": "sha256-7NNxl2nWOTgspb1ZhDQPyny49TU9WfllVm6EedGvL3U="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-ld7n7irujy.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\s95s77348t-luduh41nq2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +2909,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1933"
+          "Value": "1934"
         },
         {
           "Name": "Content-Type",
@@ -2917,11 +2917,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hQO4mk068bf9u28qVJgLu44UF3HUV98nik65efyrilw=\""
+          "Value": "\"IVwd5Hcn/PtV+aQ4jNYjwuZYG+1HWjN/1H/tC4cRMRY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:18 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2939,7 +2939,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hQO4mk068bf9u28qVJgLu44UF3HUV98nik65efyrilw="
+          "Value": "sha256-IVwd5Hcn/PtV+aQ4jNYjwuZYG+1HWjN/1H/tC4cRMRY="
         }
       ]
     },
@@ -3005,7 +3005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Wed, 18 Sep 2024 18:37:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3158,7 +3158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Wed, 18 Sep 2024 18:37:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3182,12 +3182,12 @@
     },
     {
       "Route": "_framework/BlazorAppCA3.wasm",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.br",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000113352981"
+          "Quality": "0.000112473288"
         }
       ],
       "ResponseHeaders": [
@@ -3197,15 +3197,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8821"
+          "Value": "8890"
         },
         {
           "Name": "ETag",
-          "Value": "\"B5o0zn4XvSCYMOnnZwksfz5MS2wr/Fk4QUXN/SfHzKk=\""
+          "Value": "\"rTirgqIIB3Gg7nadTq3uQhBn+M5CaY/oRVxe7w4W19k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:17 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3225,24 +3225,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8=\""
+          "Value": "W/\"Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8="
+          "Value": "sha256-Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorAppCA3.wasm",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000099088387"
+          "Quality": "0.000099166997"
         }
       ],
       "ResponseHeaders": [
@@ -3252,15 +3252,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10091"
+          "Value": "10083"
         },
         {
           "Name": "ETag",
-          "Value": "\"4kLWK94JIZAypGGoqeEU50hsmilQPFt8x0NCi3EPawo=\""
+          "Value": "\"sO1hNtMrjKjEDjT9vB14l7ZJ3iuazX1o23ifOOj8tdM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:17 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3280,13 +3280,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8=\""
+          "Value": "W/\"Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8="
+          "Value": "sha256-Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU="
         }
       ]
     },
@@ -3309,11 +3309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8=\""
+          "Value": "\"Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:17 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3323,13 +3323,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XHnnZHoVCZZz/iwHA6YZPwP58jSK7d+0R0DD9+EnSp8="
+          "Value": "sha256-Dh9IHPn8qiEJnw4VmhaJBvMa0QemPzW4Ccidppmt6UU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorAppCA3.wasm.br",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.br",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3338,7 +3338,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8821"
+          "Value": "8890"
         },
         {
           "Name": "Content-Type",
@@ -3346,11 +3346,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B5o0zn4XvSCYMOnnZwksfz5MS2wr/Fk4QUXN/SfHzKk=\""
+          "Value": "\"rTirgqIIB3Gg7nadTq3uQhBn+M5CaY/oRVxe7w4W19k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:17 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B5o0zn4XvSCYMOnnZwksfz5MS2wr/Fk4QUXN/SfHzKk="
+          "Value": "sha256-rTirgqIIB3Gg7nadTq3uQhBn+M5CaY/oRVxe7w4W19k="
         }
       ]
     },
     {
       "Route": "_framework/BlazorAppCA3.wasm.gz",
-      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-4ylpahpins.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\obj\\Release\\net8.0\\compressed\\publish\\m9xpzhbz7h-6aevd64yw1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3383,7 +3383,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10091"
+          "Value": "10083"
         },
         {
           "Name": "Content-Type",
@@ -3391,11 +3391,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4kLWK94JIZAypGGoqeEU50hsmilQPFt8x0NCi3EPawo=\""
+          "Value": "\"sO1hNtMrjKjEDjT9vB14l7ZJ3iuazX1o23ifOOj8tdM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:17 GMT"
+          "Value": "Wed, 11 Dec 2024 15:41:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3413,7 +3413,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4kLWK94JIZAypGGoqeEU50hsmilQPFt8x0NCi3EPawo="
+          "Value": "sha256-sO1hNtMrjKjEDjT9vB14l7ZJ3iuazX1o23ifOOj8tdM="
         }
       ]
     },
@@ -3479,7 +3479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3632,7 +3632,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3771,7 +3771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3869,7 +3869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3953,7 +3953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4106,7 +4106,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:07 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4190,7 +4190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:08 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4343,7 +4343,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:30:08 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12761,7 +12761,7 @@
       ]
     },
     {
-      "Route": "index.hrk1qd03dg.html",
+      "Route": "index.7miooqxn5l.html",
       "AssetFile": "C:\\Users\\david\\Downloads\\CA3\\BlazorAppCA3\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12771,7 +12771,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "963"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -12779,11 +12779,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XY19FXA9RQgOsZ/XYr2HI7gW4OWXBc+OrpsQMQBz/bw=\""
+          "Value": "\"PwR/rtDpstYVJM+Sd+hLTFxs9HnvXANL/GN87Ake7O8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:34:35 GMT"
+          "Value": "Wed, 11 Dec 2024 15:38:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12793,7 +12793,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hrk1qd03dg"
+          "Value": "7miooqxn5l"
         },
         {
           "Name": "label",
@@ -12801,7 +12801,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XY19FXA9RQgOsZ/XYr2HI7gW4OWXBc+OrpsQMQBz/bw="
+          "Value": "sha256-PwR/rtDpstYVJM+Sd+hLTFxs9HnvXANL/GN87Ake7O8="
         }
       ]
     },
@@ -12816,7 +12816,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "963"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -12824,11 +12824,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XY19FXA9RQgOsZ/XYr2HI7gW4OWXBc+OrpsQMQBz/bw=\""
+          "Value": "\"PwR/rtDpstYVJM+Sd+hLTFxs9HnvXANL/GN87Ake7O8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:34:35 GMT"
+          "Value": "Wed, 11 Dec 2024 15:38:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12838,7 +12838,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XY19FXA9RQgOsZ/XYr2HI7gW4OWXBc+OrpsQMQBz/bw="
+          "Value": "sha256-PwR/rtDpstYVJM+Sd+hLTFxs9HnvXANL/GN87Ake7O8="
         }
       ]
     }
