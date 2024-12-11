@@ -1,1 +1,0 @@
-C:\Users\david\Downloads\CA3\BlazorAppCA3\wwwroot\sample-data\weather.json

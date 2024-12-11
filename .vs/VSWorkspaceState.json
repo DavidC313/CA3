@@ -3,8 +3,9 @@
     "",
     "\\BlazorAppCA3",
     "\\BlazorAppCA3\\Layout",
-    "\\BlazorAppCA3\\Pages"
+    "\\BlazorAppCA3\\Pages",
+    "\\BlazorAppCA3\\wwwroot"
   ],
-  "SelectedNode": "\\BlazorAppCA3\\Layout\\MainLayout.razor",
+  "SelectedNode": "\\BlazorAppCA3\\wwwroot\\index.html",
   "PreviewInSolutionExplorer": false
 }
