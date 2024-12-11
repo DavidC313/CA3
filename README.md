@@ -22,11 +22,11 @@ The **Football Player Finder** is a Blazor web application designed to allow use
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/FootballPlayerFinder.git
+   git clone https://github.com/DavidC313/CA3
    ```
 2. Navigate to the project directory:
    ```bash
-   cd FootballPlayerFinder
+   cd CA3
    ```
 3. Restore dependencies:
    ```bash
@@ -61,36 +61,10 @@ The application has been analyzed using Visual Studio Code Metrics:
 ## Deployment
 This application can be deployed to:
 - **Azure:** Publish the Blazor app directly from Visual Studio to an Azure App Service.
-- **GitHub Pages:** Host using a static site generator or GitHub Pages setup.
 
 ## API Integration
 The app uses the "Free API Live Football Data" API. Update the API key in the `PlayerService.cs` file:
 ```csharp
 client.DefaultRequestHeaders.Add("x-rapidapi-key", "Your-API-Key");
 ```
-
-## Contributing
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request on GitHub.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries or support, please contact:
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Username]
 
